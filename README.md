@@ -33,7 +33,6 @@ The following repository contains an `alg` class that has Java implementations f
 
 ## Coin Change Problem
 
-
 ### Introduction
 
 **Objective:** Given a set of coins and amount, Write an algorithm to find out how many ways we can make the change of the amount using the coins given.
